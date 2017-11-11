@@ -1,0 +1,5 @@
+c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\bin\Dw_Proyecto4.dll
+c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\bin\Dw_Proyecto4.pdb
+c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\obj\Debug\Dw_Proyecto4.dll
+c:\users\ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\obj\Debug\Dw_Proyecto4.pdb
+C:\Users\Ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\obj\Debug\Dw_Proyecto4.csprojResolveAssemblyReference.cache

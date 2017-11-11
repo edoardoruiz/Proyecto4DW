@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="BackEnd/tabla Pais.sql">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="bin/Dw_Proyecto4.dll">
+      <publishTime>11/05/2017 18:40:18</publishTime>
+    </File>
+    <File Include="bin/Dw_Proyecto4.pdb">
+      <publishTime>11/05/2017 18:40:18</publishTime>
+    </File>
+    <File Include="Clientes.aspx">
+      <publishTime>11/05/2017 13:23:38</publishTime>
+    </File>
+    <File Include="Componentes/itextsharp.dll">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="Componentes/Recibo.pdf">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="Componentes/Recibo_1.pdf">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/1bootstrap.min.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/barra.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/blueimp-gallery.min.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-filestyle.js">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap-filestyle.min.js">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css.map">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/bootstrap.min2.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/carousel.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/demo-ie8.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/demo.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/jquery.fileupload-noscript.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/jquery.fileupload-ui-noscript.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/jquery.fileupload-ui.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/jquery.fileupload.css">
+      <publishTime>10/28/2017 07:15:48</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="css/now-ui-kit.css">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="css/prueba.css">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="css/prueba.html">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="Detalles_Cliente.aspx">
+      <publishTime>11/05/2017 13:23:22</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="Inicio.aspx">
+      <publishTime>11/05/2017 13:55:59</publishTime>
+    </File>
+    <File Include="Inventario.aspx">
+      <publishTime>11/05/2017 12:12:35</publishTime>
+    </File>
+    <File Include="jquery/jquery-3.2.1.min.js">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="jquery/jquery.js">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="jquery/jquery.min.js">
+      <publishTime>10/28/2017 07:15:49</publishTime>
+    </File>
+    <File Include="js/app.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/bootstrap.min2.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/canvas-to-blob.min.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/cors/jquery.postmessage-transport.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/cors/jquery.xdr-transport.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/jquery.blueimp-gallery.min.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-angular.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-audio.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-image.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-jquery-ui.js">
+      <publishTime>10/28/2017 07:15:50</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-process.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-ui.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-validate.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload-video.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/jquery.fileupload.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/jquery.iframe-transport.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/load-image.all.min.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/npm.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/tmpl.min.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="js/vendor/jquery.ui.widget.js">
+      <publishTime>10/28/2017 07:15:51</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>11/05/2017 13:23:36</publishTime>
+    </File>
+    <File Include="Mantenimiento.aspx">
+      <publishTime>11/05/2017 16:05:19</publishTime>
+    </File>
+    <File Include="Prueba.aspx">
+      <publishTime>11/05/2017 18:35:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/05/2017 19:33:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

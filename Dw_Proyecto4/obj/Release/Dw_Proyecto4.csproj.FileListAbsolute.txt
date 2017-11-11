@@ -1,0 +1,4 @@
+C:\Users\Ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\bin\Dw_Proyecto4.dll
+C:\Users\Ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\bin\Dw_Proyecto4.pdb
+C:\Users\Ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\obj\Release\Dw_Proyecto4.dll
+C:\Users\Ricardo\documents\visual studio 2012\Projects\Dw_Proyecto4\Dw_Proyecto4\obj\Release\Dw_Proyecto4.pdb
